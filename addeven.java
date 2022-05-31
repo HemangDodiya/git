@@ -1,3 +1,4 @@
 public void odd() {
-    println("+2");
+    System.out.println("+2");
+
 }
